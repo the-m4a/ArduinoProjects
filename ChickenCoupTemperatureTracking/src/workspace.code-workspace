@@ -1,0 +1,22 @@
+{
+	"folders": [
+        {
+            "path": "..\\..\\..\\..\\..\\..\\Desktop\\Arduino\\KitFiles\\English\\code"
+        },
+        {
+            "name": "ChickenTemperatureTracking",
+            "path": ".."
+        },
+        {
+            "path": "..\\..\\..\\..\\Arduino\\ChickenGateControlUnoMotor"
+        },
+        {
+            "path": "..\\..\\..\\..\\Arduino\\HttpClient\\ChickenGateControlHttpClient"
+        },
+        {
+            "name": "ChickenTempUploader",
+            "path": "..\\..\\ChickenTempUploader"
+        }
+    ],
+    "settings": {}
+}

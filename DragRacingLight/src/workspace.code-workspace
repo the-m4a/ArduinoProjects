@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Arduino\\LedStrip1"
+		},
+		{
+			"name": "DragRacingLight",
+			"path": ".."
+		}
+	],
+    "settings": {}
+}
